@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Eggmann\'s Eatery</string>
+    <string name="large_text">
+        "Our Location
+        (740) 480 - 1235
+        3005 Wilson Rd, Centerburg, Ohio 43011
+
+        Eggmannseatery@gmail.com"
+    </string>    
+    <string name="textview">TextView</string>
+    <string name="menu_test">
+
+        "Breakfast\n\n"
+
+        "Cheddar Biscuits &amp; Gravy w/Scrambled Egg                            $6.00\n"
+        "   Made from scratch cheddar biscuits topped with homemade\n"
+        "   sausage gravy and scrambled eggs\n\n"
+
+
+        "Waffle Sandwich                                                                                $9.00\n"
+        "   Two crispy waffles stuffed with a 3 egg omelet, blend of\n"
+        "   cheeses, and 3 strips of bacon, topped with a drizzle of\n"
+        "   syrup served with chips \n\n"
+
+
+        "Steak &amp; Eggs                                                                                    $13.00\n"
+        "   Steak cooked to your specifications, 2 eggs your way and\n"
+        "   choice of buttered toast.\n\n"
+
+
+        "Waffle Bowl Options                                           $5/ea or 3 for $12.00"
+        "
+        ~ Peanut Butter Delight
+        ~ Momma's Fruit Dip
+        ~ Eggtraordinary Breakfast Bowl
+        ~ Not Your Mama's Chicken &amp; Waffles
+        ~ Chili Bowl
+        ~ Blue Bowl
+        ~ Cinnamon Apple Bowl\n\n"
+
+
+        "Healthy Wrap      $9.00
+        Fluffy egg whites, grilled jalapenos, sauteed mushrooms, feta cheese, and fresh spinach rolled up in a warm flour tortilla served with black beans
+
+
+        Southwest Breakfast Wrap     $9.00
+        Scrambled eggs, blend of cheese, roasted red and yellow bell peppers, grilled jalapeno and onion, finished with sour cream. Comes with a side of black beans
+
+
+        Classic Breakfast      $6.00
+        2 eggs your way, waffle fries, choice of bacon or sausage patties and choice of buttered toast accompanied by homemade jam
+
+
+        That's Bananas       $8.00
+        Two banana flavored waffles, bruleed banana strips, vanilla meringue, vanilla icing, and topped with fresh blueberries
+
+
+        Strawberry Galore      $8.00
+        Two waffles topped with fresh strawberries, strawberry whip cream, butter,and syrup."
+
+
+
+    </string>
+    <string name="about_us" >
+        "About Us.
+    Philosophy and Vision
+
+    Eggmann’s is a place that values and supports our customers and each other like family. It is bolstered by a fun working environment, promotes empathy and compassion to all, encourages daily laughter and inspires one another to become our best selves at work and at home through positive reinforcement, showing genuine appreciation in our words and our actions and practicing servant leadership so we can deliver exceptional service and thoughtful food to our guest."
+    </string>
+
+
+
+    
+</resources>
